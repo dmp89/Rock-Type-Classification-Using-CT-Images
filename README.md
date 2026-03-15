@@ -1,7 +1,7 @@
 # μCT CNN Benchmark for Rock Type Classification
 
 This repository contains the code used in the study  
-**“Deep Learning-Based Benchmarking of CNN Architectures for Rock Type Classification Using μCT Images”**.
+**“A Benchmark Framework for Deep CNN Architectures Applied to Rock Type Classification from Micro-CT Images”**.
 
 The purpose of this codebase is to provide a **reproducible and standardized workflow** for benchmarking multiple pretrained convolutional neural network (CNN) architectures applied to rock type classification (sandstone, limestone, and shale) using micro-computed tomography (μCT) images.
 
